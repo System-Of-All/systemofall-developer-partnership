@@ -1,18 +1,3 @@
-Step 1.4 — Create
-Click green button "Create repository"
-Wait for page to load
-✅ Repository created
-PHASE 2: Replace the Auto-Generated README
-Step 2.1 — Open README for Editing
-You should now see your new repository page
-Click on README.md file in the file list
-Click the pencil icon (✏️) on the right side to edit
-Step 2.2 — Delete Default Content
-Select all text in the editor (Ctrl+A or Cmd+A)
-Delete it
-Step 2.3 — Paste New README Content
-Copy and paste this entire content:
-
 # System Of All Developer Partnership Program
 
 The official developer partnership and contributor program for the **System Of All** ecosystem.
