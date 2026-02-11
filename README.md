@@ -77,7 +77,7 @@ Contribution history, decisions, and recognition are publicly documented.
 - [System Of All — Ecosystem](https://github.com/System-Of-All/systemofall-ecosystem)
 - [SALL Token](https://github.com/System-Of-All/sall-token)
 
----
 
-© 2025 System Of All LLC and The One Legacy Foundation.
+
+© 2026 System Of All LLC and The One Legacy Foundation.
 All rights reserved under The One Law of Resonant Alignment.
