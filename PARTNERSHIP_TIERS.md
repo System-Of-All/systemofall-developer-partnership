@@ -1,20 +1,68 @@
 # Partnership Tiers
 
-This document defines the **levels of contribution and recognition** within the SALL Token Partnership Program.
+The **SALL Token Partnership Program** defines **levels of contribution and recognition** to ensure transparency, fairness, and alignment with ecosystem goals.  
+All tiers are **contribution-driven**, and eligibility for token rewards or recognition is assessed based on **verified deliverables and milestones**.
+
+
 
 ## Tier 1 – Core Contributor
-- Active contributor with defined deliverables
+Contributors in this tier actively **build, maintain, or enhance core ecosystem components**.
+
+**Expectations:**
+- Deliver defined technical or research outputs
+- Meet milestone-based objectives
+- Collaborate with other contributors as required
+
+**Benefits:**
 - Access to milestone-driven token rewards
-- Public acknowledgment within the ecosystem
+- Public acknowledgment in contributor listings
+- Opportunities for deeper engagement in technical and governance discussions
+
+**Examples:**
+- Developing a smart contract or protocol module
+- Implementing AI/ML functionality
+- Writing a critical component of platform infrastructure
+
+
 
 ## Tier 2 – Specialist / Advisor
-- Provides domain-specific guidance (technical, governance, or research)
-- Token rewards based on scope and quality of contribution
-- Recognition in program updates and contributor listings
+This tier includes contributors who **provide expert guidance or advisory support** to the ecosystem.
+
+**Expectations:**
+- Offer domain-specific expertise (technical, governance, research)
+- Guide teams or projects within scope
+- Review and validate contributions
+
+**Benefits:**
+- Token rewards based on scope, impact, and quality of contributions
+- Recognition in program updates and public contributor listings
+- Invitations to strategic discussions or planning sessions
+
+**Examples:**
+- Security audits and cryptography reviews
+- Regulatory compliance guidance
+- Governance framework design
+
+
 
 ## Tier 3 – Infrastructure Partner
-- Supports ecosystem stability, scalability, or security
-- Contribution is milestone-driven
-- Access to collaborative tools and ecosystem resources
+Infrastructure partners focus on **stability, scalability, and operational excellence** across the ecosystem.
 
-> All tiers are **contribution-based**. Eligibility for tokens or recognition is evaluated per milestone and verified deliverables.
+**Expectations:**
+- Maintain infrastructure or platform components
+- Ensure system reliability and uptime
+- Contribute to monitoring, DevOps, or scaling initiatives
+
+**Benefits:**
+- Milestone-based token incentives
+- Access to collaboration tools and resources
+- Acknowledgment as an official infrastructure partner
+
+**Examples:**
+- Managing cloud deployment and CI/CD pipelines
+- Optimizing database and server performance
+- Implementing network security or redundancy solutions
+
+
+
+> **Note:** All tiers are **contribution-based**. Token eligibility, recognition, and progression depend on verified delivery of milestones and quality contributions. Selection is meritocratic and based on demonstrated impact.
