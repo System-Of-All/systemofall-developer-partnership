@@ -1,161 +1,185 @@
-# SALL Token Partnership Program
+# SALL Token — Developer Partnership Program
 
-The **SALL Token Partnership Program** is part of the **System Of All (SALL) ecosystem**.  
-It provides a structured framework for **developers, specialists, and professional contributors** who actively support the development, security, governance, and sustainability of the ecosystem.  
+The **SALL Token Developer Partnership Program** defines the structured participation framework for technical contributors within the **System Of All ecosystem**.
 
-> Participation is **contribution-driven**, not investment-driven. Contributors are selected based on **expertise, impact, and active participation**.
+This repository governs how developers, researchers, and infrastructure specialists may contribute to the ecosystem in a transparent, governed, and contribution-based manner.
+
+> Participation is contribution-driven. It is not investment-driven, promotional, or speculative in nature.
 
 
 
-## Table of Contents
 
-- [Program Overview](#program-overview)  
-- [Who Can Participate](#who-can-participate)  
-- [Nature of Participation & Roles](#nature-of-participation--roles)  
-- [Token Participation & Milestones](#token-participation--milestones)  
-- [Program Lifecycle / Getting Started](#program-lifecycle--getting-started)  
-- [Core Principles](#core-principles)  
-- [Confidentiality & Conduct](#confidentiality--conduct)  
-- [About System Of All / Ecosystem](#about-system-of-all--ecosystem)  
-- [Related Repositories / Documentation](#related-repositories--documentation)  
-- [Contact](#contact)  
+
+## Program Position Within the Ecosystem
+
+This repository operates under the constitutional and governance framework defined in:
+
+- **System Of All — The One Core**  
+- **System Of All — Ecosystem (ARCHITECTURE.md & DECISIONS.md)**  
+- **SALL Token repository**
+
+Architectural authority remains centralized at the ecosystem level.  
+Nothing in this repository supersedes ecosystem governance.
+
+
 
 
 
 ## Program Overview
 
-The SALL Token Partnership Program is designed to:
+The program is designed to:
 
-- Align contributors with the **technical, operational, and governance standards** of the SALL ecosystem.  
-- Emphasize **measurable contribution, accountability, and long-term system quality**.  
-- Provide a clear framework **prior to any formal agreements**.
+- Align contributors with ecosystem architecture and governance standards  
+- Establish measurable contribution pathways  
+- Provide structured recognition mechanisms  
+- Maintain interoperability, auditability, and system integrity  
 
-> **Important:** This program is **not a contract or investment offer**. Any formal engagement, including token allocations, occurs through separate written agreements executed after mutual agreement.
+This repository does not constitute a contract, offer, or solicitation.  
+Formal engagements occur only through separate written agreements when applicable.
+
+
 
 
 
 ## Who Can Participate
 
-The program is for **individuals or teams with verifiable skills and active contribution capacity** in areas such as:
+The program is intended for individuals or teams with verifiable technical or domain expertise in areas including:
 
-- Software development and engineering  
+- Software engineering  
+- Blockchain protocol design  
 - Security research and auditing  
-- Blockchain architecture and protocol design  
-- AI/ML and data infrastructure  
-- Compliance and regulatory frameworks  
-- Platform infrastructure & DevOps  
-- Tokenomics & economic mechanism design  
-- Governance & DAO frameworks  
-- Documentation and technical research  
+- Infrastructure engineering and DevOps  
+- AI/ML systems  
+- Governance architecture  
+- Economic mechanism modeling  
+- Technical documentation and research  
 
-**Not eligible:** Investors, brokers, promoters, influencers, media figures, or passive participants.  
+Participation is based on demonstrated capability and meaningful contribution.
 
-Selection is based on **capability and contribution**, not on capital, network, or promotion.
+Not eligible:
+
+- Passive participants  
+- Promoters or marketing affiliates  
+- Capital allocators acting solely as investors  
+- Media or publicity roles  
+
+
 
 
 
 ## Nature of Participation & Roles
 
-Participants engage as:
+Participants may engage as:
 
-- **Contributors:** Deliver technical, operational, or research outputs.  
-- **Specialists/Advisors:** Provide domain-specific guidance.  
-- **Infrastructure Partners:** Support stability, scalability, and security of the ecosystem.  
+- **Technical Contributors** — delivering code, infrastructure, or research  
+- **Specialist Advisors** — providing domain-specific expertise  
+- **Infrastructure Partners** — supporting system stability and scalability  
 
-**Expectations:**
+Expectations include:
 
-- Deliver verifiable contributions within the defined scope  
-- Maintain professional standards, execution quality, and accountability  
-- Avoid public promotion, token solicitation, or investor engagement unless explicitly authorized  
+- Delivering verifiable outputs  
+- Maintaining professional execution standards  
+- Operating within defined contribution scope  
+- Respecting governance and review processes  
 
-
-
-## Token Participation & Milestones
-
-- Token allocation is **earned through contribution**, not purchased.  
-- Participation is **milestone-driven**; token distribution depends on delivery quality and scope.  
-- Allocation, vesting, and other economic terms are **case-by-case** and linked to measurable contribution.  
-
-> The program does **not automatically confer token ownership or rights**. Any token-related arrangements are formalized only through separate written agreements and aligned with compliance requirements.
+Public representation of participation requires explicit authorization.
 
 
 
-## Program Lifecycle / Getting Started
 
-Participation follows a **structured process**:
 
-1. **Selection:** Evaluation based on relevance, expertise, and anticipated contribution.  
-2. **Program Overview:** Review this README to understand framework, roles, and expectations.  
-3. **Scope Alignment:** Discuss potential contribution areas, responsibilities, and deliverables.  
-4. **Formal Engagement (Optional):** Execute agreements such as NDAs, advisory contracts, or contribution agreements.  
+## Contribution & Token Alignment
 
-**Getting Started:**
+The SALL token functions as a coordination and incentive mechanism within the ecosystem.
 
-1. Identify your **contribution track** (Engineering, Security, Research, Governance).  
-2. Review **contribution tiers and recognition framework**.  
-3. Read the **IP policy** and **Code of Conduct**.  
-4. Submit your application or inquiry via the provided **contact channels**.  
+Key principles:
 
-Participants may disengage at any stage without obligation. Early engagement does not guarantee formalization.
+- Token allocation is earned through verified contribution  
+- Participation is milestone-driven  
+- Distribution terms are defined case-by-case  
+- Allocation does not automatically confer governance control or ownership rights  
+- All arrangements must align with ecosystem governance and applicable compliance standards  
+
+Token participation is subordinate to architectural authority.
+
+
+
+
+
+## Program Lifecycle
+
+Participation follows a structured sequence:
+
+1. Review ecosystem structure and this repository  
+2. Identify relevant contribution track  
+3. Engage in scope alignment discussion  
+4. Submit contribution proposal or application  
+5. Undergo governance review  
+6. Execute formal agreement if required  
+7. Deliver milestones  
+8. Receive recognition or allocation where applicable  
+
+Participation may end at any stage without obligation unless formal agreements are executed.
+
+
 
 
 
 ## Core Principles
 
-- **Builder-Focused:** Contribution is measured by execution, not affiliation.  
-- **Recognition-Based:** Contributors are acknowledged through attribution, ecosystem access, and collaborative opportunities.  
-- **Governance-Aligned:** Contributions must conform to ecosystem architecture and undergo governed review.  
-- **Transparency:** Contribution history, decisions, and recognition are publicly documented.
+- **Architecture First** — Contributions must conform to ARCHITECTURE.md  
+- **Governed Review** — All meaningful changes undergo structured review  
+- **Merit-Based Recognition** — Impact and quality determine recognition  
+- **Transparency** — Decisions are documented and auditable  
+- **Interoperability** — No contribution may fragment ecosystem structure  
 
 
 
-## Confidentiality & Conduct
-
-- Treat all **non-public information** as confidential.  
-- Use program materials **solely for evaluating or delivering contributions**.  
-- Represent skills, roles, and affiliations **accurately**.  
-- Public disclosure of participation **requires explicit written approval**.  
 
 
+## Confidentiality & Professional Conduct
 
-## About System Of All / Ecosystem
+Participants agree to:
 
-System Of All (SALL) is a **U.S.-based company** advancing **ethical innovations with global impact**, led by **Igor Zijan, Founder & CEO**.  
+- Treat non-public information as confidential  
+- Use materials solely for contribution-related purposes  
+- Represent skills and affiliations accurately  
+- Avoid unauthorized public statements regarding token or partnership matters  
 
-**Key Initiatives:**
+All contributors must comply with:
 
-- **Havana Syndrome Act:** Successfully passed with full Congressional support  
-- **Medical Breakthroughs:** Contributions to diabetes, cancer, and Parkinson’s research  
-- **Leadership & Education:** King Of Elites Club book series, workshops, and digital content  
-
-**Ecosystem Components:**
-
-- **SALL Utility Tokens** — Core infrastructure  
-- **Multi-Signature Wallet**  
-- **Dynamic NFT Marketplace**  
+- IP_POLICY.md  
+- CODE_OF_CONDUCT.md  
 
 
 
-## Related Repositories / Documentation
+
+
+## Program Documentation
 
 | Document | Purpose |
 |----------|---------|
-| [PARTNERSHIP_TIERS.md](PARTNERSHIP_TIERS.md) | Contribution levels and recognition framework |
-| [CONTRIBUTION_TRACKS.md](CONTRIBUTION_TRACKS.md) | Technical, Research, and Governance tracks |
-| [APPLICATION.md](APPLICATION.md) | How to apply and engage |
-| [IP_POLICY.md](IP_POLICY.md) | Intellectual property guidelines |
-| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Community standards and expectations |
-| [System Of All — The One Core](https://github.com/System-Of-All/systemofall-the-one-core) | Universal principles and global architecture |
-| [System Of All — Ecosystem](https://github.com/System-Of-All/systemofall-ecosystem) | Organizational structure and execution layers |
-| [SALL Token](https://github.com/System-Of-All/sall-token) | Core token repository |
+| [CONTRIBUTION_TRACKS.md](CONTRIBUTION_TRACKS.md) | Defines technical and governance contribution pathways |
+| [PARTNERSHIP_TIERS.md](PARTNERSHIP_TIERS.md) | Recognition and contribution scaling framework |
+| [APPLICATION.md](APPLICATION.md) | Application and onboarding process |
+| [IP_POLICY.md](IP_POLICY.md) | Intellectual property boundaries |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Professional and ethical standards |
+
+Ecosystem References:
+
+- [System Of All — The One Core](https://github.com/System-Of-All/systemofall-the-one-core)  
+- [System Of All — Ecosystem](https://github.com/System-Of-All/systemofall-ecosystem)  
+- [SALL Token Repository](https://github.com/System-Of-All/sall-token)  
+
+
 
 
 
 ## Contact
 
-- **Email:** [development@systemofall.com](mailto:development@systemofall.com)  
-- **Telegram:** [t.me/systemofall](https://t.me/systemofall)
+For structured engagement inquiries:
 
+development@systemofall.com
 
-
-© 2026 System Of All LLC. All rights reserved.
+© 2026 System Of All LLC.  
+All rights reserved.
